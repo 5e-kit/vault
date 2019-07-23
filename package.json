@@ -1,0 +1,30 @@
+{
+  "name": "vault",
+  "version": "0.1.0",
+  "description": "Store D&D 5e items, classes, abilities, spells and more as JSON files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5e-kit/vault.git"
+  },
+  "keywords": [
+    "d&d",
+    "dnd",
+    "dungeons and dragons",
+    "5e",
+    "5th edition",
+    "fifth edition",
+    "json",
+    "storage",
+    "vault"
+  ],
+  "author": "Reece Emero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/5e-kit/vault/issues"
+  },
+  "homepage": "https://github.com/5e-kit/vault#readme"
+}
