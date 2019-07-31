@@ -6,3 +6,5 @@ A 5e-kit module for storing
 - backgrounds
 - classes
 - equipment
+- armor
+- weapons
